@@ -1,6 +1,7 @@
 #!/bin/sh
 
 ssh ubuntu@18.221.189.221 <<EOF
+  mkdir poonam
   cd drfblogproject
   git pull
   mkdir poonam
