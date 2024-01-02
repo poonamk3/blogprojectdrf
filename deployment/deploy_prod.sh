@@ -1,6 +1,6 @@
 #!/bin/sh
 
-ssh ubuntu@128.199.25.122 <<EOF
+ssh ubuntu@18.221.189.221 <<EOF
   cd drfblogproject
   git pull
   source /opt/envs/drfblogproject/bin/activate
